@@ -1,0 +1,6 @@
+{
+  "name": "Synthetic Buyer",
+  "email": "buyer@example.com",
+  "request": "Connect our inquiry form to a CRM API integration",
+  "budget_usd": 500
+}
